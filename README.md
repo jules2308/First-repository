@@ -7,6 +7,6 @@ What we have done
 -Boilerplate
 
 ## To do list
--[] Example item
-  -[] Nested item
--[] New List
+- [] Example item
+  - [] Nested item
+- [] New List
