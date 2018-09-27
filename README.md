@@ -6,8 +6,6 @@ What we have done
 -To Do List
 -Boilerplate
 
-## To do list
-
 <!DOCTYPE html>
 <html>
 <body>
